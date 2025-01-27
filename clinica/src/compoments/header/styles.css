@@ -1,0 +1,22 @@
+.nav-header {
+    display: flex;
+    width: auto;
+    height: 4rem;
+    margin: 0;
+    padding: 0.05rem;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+}
+
+.nav-header ul,
+.nav-header li {
+    display: flex;
+    padding: 1rem;
+}
+
+
+.Api-teste  {
+    color: rgb(42, 41, 9);
+    font-size: larger;
+}

@@ -1,0 +1,38 @@
+.form {
+    width: 40rem;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    border: rgb(38, 70, 232) solid 0.1rem;
+}
+
+.form span {
+    margin: auto;
+    padding: auto;
+}
+.form-consulta {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.name-title {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
+    font-size: xx-large;
+    color: blue;
+    
+}
+
+.form-consulta span { 
+    margin: 0.1rem;
+    padding: 0.5rem;
+}
+
+.form-consulta input{
+    width: 20rem;
+    margin-left: 1rem;
+    border-radius: 0.7rem;
+    border: rgb(38, 70, 232) solid 0.1rem;
+}
+

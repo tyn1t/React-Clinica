@@ -1,4 +1,4 @@
-import "sytle.css"
+import './sytle.css'
 
 interface ButtonProps {
     name:string,
@@ -7,6 +7,6 @@ interface ButtonProps {
 
 export function Button({name, type}:ButtonProps) {
     return (
-        <button className="buttons type">{name}</button>
+        <button className={type} type="submit">{name}</button>
     )
 }

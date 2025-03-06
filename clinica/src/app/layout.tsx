@@ -14,8 +14,10 @@ export default function RootLayout({children,}: Readonly<{children: React.ReactN
     <html lang="en">
       <body className={`antialiased`}>
         <Header buttons="Button"/>
-        {children}
-        <Footer/>
+          {children} 
+        <div className="contair-footer">
+          <Footer/>
+        </div>
       </body>
     </html>
   );

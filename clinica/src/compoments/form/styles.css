@@ -3,7 +3,7 @@
     justify-content: center;
     justify-items: center;
     align-items: center;
-    border: rgb(38, 70, 232) solid 0.1rem;
+
 }
 
 .form span {
@@ -18,9 +18,8 @@
 }
 
 .name-title {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow';
     font-size: xx-large;
-    color: blue;
+    color: rgb(40, 40, 41);
     
 }
 
@@ -30,9 +29,9 @@
 }
 
 .form-consulta input{
-    width: 20rem;
+    width: 25rem;
     margin-left: 1rem;
-    border-radius: 0.7rem;
-    border: rgb(38, 70, 232) solid 0.1rem;
+    border-radius: 0.1rem;
+    border: rgb(89, 92, 112) solid 0.01rem;
 }
 

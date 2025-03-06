@@ -1,5 +1,5 @@
 export default function Post(){
     return (
-        <h1>Medico</h1>
+        <h1>Medico </h1>
     )
 }

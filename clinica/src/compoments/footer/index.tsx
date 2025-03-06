@@ -2,7 +2,7 @@ import './sytle.css'
 
 export function Footer() {
     return (
-        <footer className="footer-p">
+        <footer className="navbar">
             <div className='title-name'>
                 <span>
                     <h1>

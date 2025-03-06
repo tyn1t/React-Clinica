@@ -1,0 +1,19 @@
+.paciente {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+}
+
+.form{
+    margin-top: 10rem;
+    padding: auto;
+    position: relative;
+}
+
+.home-paciente {
+    margin: 2rem;
+    padding: 3rem;
+    position: absolute;
+}
